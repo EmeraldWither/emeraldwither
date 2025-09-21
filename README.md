@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ishaan 👋  
 
-<!--
-**EmeraldWither/emeraldwither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **Stevens Institute of Technology** (Accelerated Master’s Program)  
+🤖 Currently working with **ROS2** at [Stevens E-Boat](https://github.com/EmeraldWither/Stevens-Electric-Boatworks)  
+🌐 Exploring  **ROS2, AV/IT Systems, Networking, Flutter/Dart**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+**Languages:** Java, Flutter, Dart, Python, C++ (Learning) 
+
+**Tools & Frameworks:** ROS2 (Learning), Linux, Git, WPILib, AWS
+
+**Focus Areas:** Robotics, Backend Systems, Systems Programming 
+
+---
+
+## 🚀 Featured Projects  
+- 🔩 **FIRST Robotics** – Led programming & electrical teams, building reliable Java control systems and vision pipelines under competition pressure. For more information, visit the [team's github page](https://github.com/FRCTeam1672) 
+- ⛵ **Stevens E-Boat** – Reworking the entire control system using ROS2  
+- 🎮 **PaperMC / Velocity** – Developed Minecraft and proxy plugins for both minigames and handling backend systems 
+
+---
+
+## 🌱 What I’m Learning  
+- ROS2 (Python && C++) with CANOpen and WebSockets
+- C++ using ROS2
+---
+
+## 📫 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/sayal-ishaan)  
+- [Email](mailto:isayal@stevens.edu)  
+---
