@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Projects  
-- 🔩 **FIRST Robotics** – Led programming & electrical teams, building reliable Java control systems and vision pipelines under competition pressure. For more information, visit the [team's github page](https://github.com/FRCTeam1672) 
+- 🔩 **FIRST Robotics Competition** – Led programming & electrical teams, building reliable Java control systems and computer vision pipelines for Team 1672. For more information, visit the [team's github page](https://github.com/FRCTeam1672) 
 - ⛵ **Stevens E-Boat** – Reworking the entire control system using ROS2  
 - 🎮 **PaperMC / Velocity** – Developed Minecraft and proxy plugins for both minigames and handling backend systems 
 
