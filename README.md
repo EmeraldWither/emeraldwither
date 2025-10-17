@@ -1,7 +1,7 @@
 # Hi, I'm Ishaan 👋  
 
 🎓 Computer Science student at **Stevens Institute of Technology** (Accelerated Master’s Program)  
-🤖 Currently working with **ROS2** at [Stevens E-Boat](https://github.com/EmeraldWither/Stevens-Electric-Boatworks)  
+🤖 Currently working with **ROS2** at [Stevens E-Boat](https://github.com/Stevens-Electric-Boatworks)  
 🌐 Exploring  **ROS2, AV/IT Systems, Networking, Flutter/Dart**  
 
 ---
